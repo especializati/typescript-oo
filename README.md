@@ -1,5 +1,10 @@
-# Curso Orientação a Objetos com TypeScript
+# Curso de TypeScript: Programação Orientada a Objetos com TypeScript
 
-CURSO COMPLETO SOBRE ORIENTAÇÃO A OBJETOS COM TYPESCRIPT
+Curso Completo Sobre Orientação a Objetos (POO) com TypeScript.
 
-[ACESSAR](https://academy.especializati.com.br/curso/typescript-poo)
+- :movie_camera: [Acesse o Curso](https://academy.especializati.com.br/curso/typescript-poo).
+
+
+Links Úteis:
+
+- :tada: [Saiba Mais](https://linktr.ee/especializati)
